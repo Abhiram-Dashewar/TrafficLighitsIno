@@ -1,4 +1,4 @@
-# Four-Way Traffic Light Controller
+# 🚦Four-Way Traffic Light Controller
 
 An Arduino Uno-based four-way traffic light controller built with **12 LEDs**. The project simulates a four-road intersection by giving each road a timed green signal in sequence while the other three roads remain red.
 
